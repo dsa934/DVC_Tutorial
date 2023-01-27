@@ -1,0 +1,4 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = C:\Users\imagoworks\Desktop\dvc_main/data_storage
